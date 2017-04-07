@@ -1,12 +1,12 @@
-# Install docket
+# Install docker
 
-- docker
-
-https://docs.docker.com/engine/installation/linux/ubuntu/
-
-- tsinghua mirror (Recommend)
+## tsinghua mirror (Recommend)
 
 https://mirror.tuna.tsinghua.edu.cn/help/docker/
+
+## docker.com
+
+https://docs.docker.com/engine/installation/
 
 
 # Start mainnet
